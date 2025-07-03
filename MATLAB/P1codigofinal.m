@@ -1,4 +1,3 @@
-%% Borramos todo alv (y preparamos la imagen)
 clc; clear; close all;
 
 % Cargar las imágenes
