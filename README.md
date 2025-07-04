@@ -34,7 +34,7 @@ Este proyecto implementa una calculadora de operaciones entre imágenes en MATLA
    |----------|---------|------------------|
    | Suma | `+` | ![Suma](MATLAB/images/SUMA.jpg) |
    | Resta | `-` | ![Resta](MATLAB/images/RESTA.jpg) |
-   | Multiplicación | `*` | ![Multiplicación](MATLAB/images/MULTIPLICATION.jpg) |
+   | Multiplicación | `*` | ![Multiplicación](MATLAB/images/MULTIPLICACION.jpg) |
    | División | `/` | ![División](MATLAB/images/DIVISION.jpg) |
    | XOR | `⊕` | ![XOR](MATLAB/images/XOR.jpg) |
    | NAND | `⊼` | ![NAND](MATLAB/images/NAND.jpg) |
